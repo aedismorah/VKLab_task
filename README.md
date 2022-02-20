@@ -5,11 +5,11 @@
 (гугл-диск последнее время вредничает, так что если веса не скачиваются, пишите[знал бы место лучше гугл-диска, загрузил бы туда])
 
 Сравнение с другим моделями на части https://www.openslr.org/resources/12/train-clean-100.tar.gz (accuracy):
-(вообще наверное было бы адекватнее использовать precision-recall, так как меток 1 значительно больше)
-WebRTC: 0.9112798
+<br>(вообще наверное было бы адекватнее использовать precision-recall, так как меток 1 значительно больше)
+<br>WebRTC: 0.9112798
 
 
-<br><br><br>Использованные материалы:
+<br><br><br><bold>Использованные материалы<bold/>:
 <br>https://github.com/wiseman/py-webrtcvad
 <br>https://github.com/eesungkim/Voice_Activity_Detector
 <br>https://arxiv.org/pdf/1906.03588.pdf
