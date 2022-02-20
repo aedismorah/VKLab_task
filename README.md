@@ -7,7 +7,8 @@
 <b>Сравнение с другим моделями на части https://www.openslr.org/resources/12/train-clean-100.tar.gz (accuracy):</b>
 <br>(вообще наверное было бы адекватнее использовать precision-recall, так как меток 1 значительно больше)
 <br>WebRTC: 0.9112798
-<br>My model: 0.9320501274095937
+<br>hmm-based model: 0.9108901536106
+<br>My model: 0.9320501274095937 (я успел обучить ее только в течении двух эпох, так что результат мог бы быть и выше)
 
 <br><b>Использованные материалы</b>:
 <br>https://github.com/wiseman/py-webrtcvad
