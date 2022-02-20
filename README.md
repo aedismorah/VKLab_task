@@ -8,7 +8,7 @@
 <br>(вообще наверное было бы адекватнее использовать precision-recall, так как меток 1 значительно больше)
 <br>WebRTC: 0.9112798
 
-<br><br><b>Использованные материалы</b>:
+<br><b>Использованные материалы</b>:
 <br>https://github.com/wiseman/py-webrtcvad
 <br>https://github.com/eesungkim/Voice_Activity_Detector
 <br>https://arxiv.org/pdf/1906.03588.pdf
